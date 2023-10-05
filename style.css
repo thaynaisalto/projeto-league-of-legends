@@ -55,7 +55,7 @@ main .personagem .imagem {
 }
 
 .conteudo .logo {
-    background-image: url("lol-league-of-Legends-logo.png");
+    background-image: url(lol-league-of-Legends-logo.png);
     background-size: cover;
     width: 230px;
     height: 100px;
